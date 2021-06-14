@@ -1,0 +1,3 @@
+rootProject.name = "Zadanie 2_Detector"
+include ':app'
+include ':openCVLibrary3410'
